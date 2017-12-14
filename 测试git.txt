@@ -2,3 +2,5 @@ this is my first git program!
 add test1
 append yzx
 showtime
+change
+Creating a new branch is quick.
