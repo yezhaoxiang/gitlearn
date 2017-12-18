@@ -3,3 +3,4 @@ add test1
 append yzx
 showtime
 clone
+git add new monday
