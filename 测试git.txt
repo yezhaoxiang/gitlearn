@@ -2,13 +2,8 @@ this is my first git program!
 add test1
 append yzx
 showtime
-change
 clone
-Creating a new branch is quick.
-add head 3
 git add new monday
-
-tom添加的
-git add new monday
-
-测试回滚好的么
+add2222
+ddddd
+鍥炴粴2
